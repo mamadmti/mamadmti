@@ -1,14 +1,2 @@
-im a FullStack Developer
-so i make online services to solve your problems
-
-my skills:
-
-- Backend Development
-
-- Frontend Development
-
-- Matching and Finding User's need
-
-- Database Design
-
-- Booting up a Server as your website
+hi
+i'm a Backend Developer i'm always curious and thirsty for the knowledge in my field ☺️☺️
